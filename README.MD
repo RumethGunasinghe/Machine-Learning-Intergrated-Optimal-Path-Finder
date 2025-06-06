@@ -6,10 +6,8 @@
 4. afterwards you can reuse the gui without having to re-run the program.
 
 
-![Web Application Interface](testing/Screenshot 2025-06-06 215134.png)
-
-![Web Application Interface](testing/Screenshot 2025-06-06 215300.png)
-
+![Web Application Interface](testing/Screenshot%202025-06-06%20215134.png)
+![Web Application Interface](testing/Screenshot%202025-06-06%20215300.png)
 
 
 
