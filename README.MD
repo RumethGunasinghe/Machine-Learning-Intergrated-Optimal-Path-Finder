@@ -6,7 +6,7 @@
 4. afterwards you can reuse the gui without having to re-run the program.
 
 
-![Web Application Interface](image-url)
+![Web Application Interface](testing/Screenshot 2025-06-06 215134.png)
 
 
 
